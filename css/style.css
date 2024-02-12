@@ -1,0 +1,49 @@
+/* Name- Arya Miteshbhai Patel & Student number- 8980267 */ 
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: 600;
+    background-color: hsla(212, 56%, 86%, 0.9);
+    height: 90vh;
+    width: 90vw;
+}
+h2{
+    color: rgb(71, 84, 201);
+    font-size: 1.5em;
+}
+header{
+    background-color:hsl(78, 51%, 65%);
+}
+main{
+    background-color:hsl(145, 74%, 75%);
+    float:left;
+    width: 890px;
+    padding:10px;
+}
+aside{
+    background-color:hsl(339, 38%, 60%);
+    float:right;
+    width:250px;
+    padding:10px;
+}
+footer{
+    background-color:hsl(293, 40%, 62%);
+    clear:both;
+}
+footer p{
+    font-size:small;
+}
+.structrual{
+    margin: 5px;
+    border: 10%;
+    padding: 10px;
+}
+#paragraph1{
+    color:rgb(168, 13, 13) ;
+}
+#paragraph2{
+    color: rgb(109, 17, 72);
+}
+a:hover{
+    color:#ffff00;
+}
